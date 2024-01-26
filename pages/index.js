@@ -37,7 +37,7 @@ export default function Home({ allPostsData }) {
       <title>{siteTitle}</title>
     </Head>
     <section className={utilsStyles.headingMd}>
-      <p>Next.js version.12で作るブログアプリです。</p>
+      <p>Next.js version.12で作るマイクロブログのアプリです。</p>
     </section>
 
     <section className={`${utilsStyles.headingMd} ${utilsStyles.padding1px}`}>
